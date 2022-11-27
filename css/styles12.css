@@ -206,5 +206,14 @@ p{
     .title-image{
         position: static;
         transform: rotate(0);
+        transform: translateX(35%);
+    }
+
+    .image-container {
+        margin: 0 auto;
+    }
+
+    .main {
+        text-align: center;
     }
 }
